@@ -1,0 +1,48 @@
+{
+  "section_count": 41,
+  "nose": {
+    "length_m": 0.22,
+    "radius_y_m": 0.18,
+    "upper_radius_m": 0.32,
+    "lower_radius_m": 0.17,
+    "attachment_q": -0.6
+  },
+  "body": {
+    "length_m": 0.98,
+    "width_m": 0.65,
+    "upper_m": 0.33,
+    "lower_m": 0.18,
+    "width_exponent": 2.25,
+    "height_exponent": 2.0
+  },
+  "planform": {
+    "aft_edge_angle_deg": 3.0,
+    "nose_handle_m": 0.15,
+    "aft_handle_m": 0.28,
+    "control_x_m": 0.66,
+    "control_width_m": 0.4
+  },
+  "upper_profile": {
+    "crown_x_m": 0.55,
+    "crown_height_m": 0.315,
+    "crown_curvature_m_inverse": -0.55,
+    "aft_height_m": 0.23,
+    "aft_slope_m_per_m": -0.05,
+    "aft_curvature_m_inverse": 0.0
+  },
+  "lower_profile": {
+    "belly_x_m": 0.58,
+    "belly_depth_m": 0.18,
+    "belly_curvature_m_inverse": -0.35,
+    "aft_depth_m": 0.16,
+    "aft_slope_m_per_m": -0.02,
+    "aft_curvature_m_inverse": 0.0
+  },
+  "deck": {
+    "width_ratio": 0.5,
+    "chine_height_fraction": 0.3,
+    "chine_blend_fraction": 0.14,
+    "width_exponent": 2.0,
+    "section_height_exponent": 2.0
+  }
+}
